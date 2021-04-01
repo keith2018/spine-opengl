@@ -1,0 +1,41 @@
+.idea
+.vscode
+test/*.log
+Mac/cmake-build*/
+build/
+bin/
+
+#OS noise
+profile
+[Tt]humbs.db
+*.DS_Store
+*~
+*.swp
+*.out
+*.bak*
+*.lock
+
+#Other CSM
+.hg
+.svn
+CVS
+out
+Podfile_cp
+
+#Xcode noise
+*.log
+*~.nib
+*.moved-aside
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+xcshareddata
+*.xcworkspace/
+xcuserdata
+
+#Project files
+[Bb]uild/
+DerivedData/
+Products/
+
+#CocoaPods
+Pods
