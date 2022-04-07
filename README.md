@@ -3,7 +3,7 @@
 
 Spine is 2D skeletal animation software for video games with many kinds of runtime implement, see [https://github.com/EsotericSoftware/spine-runtimes](https://github.com/EsotericSoftware/spine-runtimes), here we render it with OpenGL/OpenGL ES on Mac/Android/iOS.
 
-The image resouces is load by stb_image, see [https://github.com/nothings/stb](https://github.com/nothings/stb) 
+The image resouces is loaded by stb_image, see [https://github.com/nothings/stb](https://github.com/nothings/stb) 
 
 
 ## Build
@@ -40,3 +40,5 @@ cd iOS
 
 ![](screenshot/iOS.jpeg)
 
+## License
+This code is licensed under the MIT License (see [LICENSE](LICENSE)).
